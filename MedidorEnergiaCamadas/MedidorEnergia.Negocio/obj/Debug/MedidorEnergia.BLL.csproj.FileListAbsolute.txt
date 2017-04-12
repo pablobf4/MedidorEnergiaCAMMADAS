@@ -1,0 +1,135 @@
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.BLL.csprojResolveAssemblyReference.cache
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.pdb
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DAL.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DTO.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Modelo.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Identity.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.Mvc.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Twilio.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Owin.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.Razor.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\JWT.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DAL.pdb
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DTO.pdb
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Modelo.pdb
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Identity.pdb
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.Mvc.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Twilio.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.Razor.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.dll
+C:\Users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DAL.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DTO.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Modelo.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Identity.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.Mvc.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Twilio.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Owin.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.Razor.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\JWT.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DAL.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DTO.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Modelo.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Identity.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.Mvc.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Twilio.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.Razor.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.BLL.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergiaCamadas-master\MedidorEnergia - C+¦pia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DAL.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DTO.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Modelo.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Identity.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.Mvc.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Twilio.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Owin.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.Razor.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\JWT.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DAL.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.DTO.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Modelo.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Identity.pdb
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.Mvc.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Twilio.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.Razor.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.BLL.csprojResolveAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.dll
+C:\Users\pablo\Documents\Visual Studio 2013\Projects\MedidorEnergiaCamadas\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.pdb

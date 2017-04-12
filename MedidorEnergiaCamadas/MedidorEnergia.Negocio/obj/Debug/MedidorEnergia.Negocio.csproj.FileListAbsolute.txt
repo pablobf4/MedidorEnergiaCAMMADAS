@@ -1,0 +1,5 @@
+c:\users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.dll
+c:\users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\bin\Debug\MedidorEnergia.Negocio.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.dll
+c:\users\pablo\documents\visual studio 2013\Projects\MedidorEnergia\MedidorEnergia.Negocio\obj\Debug\MedidorEnergia.Negocio.pdb
