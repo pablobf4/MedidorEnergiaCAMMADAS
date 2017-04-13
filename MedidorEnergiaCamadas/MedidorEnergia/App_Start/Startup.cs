@@ -12,6 +12,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+[assembly: OwinStartup(typeof(MedidorEnergia.App_Start.Startup))]
 namespace MedidorEnergia.App_Start
 {
     public partial class Startup
@@ -19,7 +20,7 @@ namespace MedidorEnergia.App_Start
         public static IDataProtectionProvider DataProtectionProvider { get; set; }
 
         // For more information on configuring authentication, please visit http://go.microsoft.com/fwlink/?LinkId=301864
-        public void ConfigureAuth(IAppBuilder app)
+        public void Configuration(IAppBuilder app)
         {
             // Configure the db context, user manager and signin manager to use a single instance per request
             app.CreatePerOwinContext(() => DependencyResolver.Current.GetService<ApplicationUserManager>());
