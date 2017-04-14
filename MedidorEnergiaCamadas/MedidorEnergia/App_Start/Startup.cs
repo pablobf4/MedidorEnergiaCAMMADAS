@@ -19,31 +19,30 @@ namespace MedidorEnergia.App_Start
     {
         public static IDataProtectionProvider DataProtectionProvider { get; set; }
 
-        // For more information on configuring authentication, please visit http://go.microsoft.com/fwlink/?LinkId=301864
+        
         public void Configuration(IAppBuilder app)
         {
-            // Configure the db context, user manager and signin manager to use a single instance per request
+            // Configurar o contexto db, o gerenciador de usuários e o gerenciador de login para usar uma única instância por solicitação
             app.CreatePerOwinContext(() => DependencyResolver.Current.GetService<ApplicationUserManager>());
-
-            // Enable the application to use a cookie to store information for the signed in user
-            // and to use a cookie to temporarily store information about a user logging in with a third party login provider
-            // Configure the sign in cookie
+            // Habilitar o aplicativo para usar um cookie para armazenar informações para o usuário conectado
+            // e usar um cookie para armazenar temporariamente informações sobre o login de um usuário com um provedor de login de terceiros
+            // Configurar o sinal no cookie
             app.UseCookieAuthentication(new CookieAuthenticationOptions
             {
                 AuthenticationType = DefaultAuthenticationTypes.ApplicationCookie,
                 LoginPath = new PathString("/Account/Login"),
                 Provider = new CookieAuthenticationProvider
                 {
-                    // Enables the application to validate the security stamp when the user logs in.
-                    // This is a security feature which is used when you change a password or add an external login to your account.  
+                    // Permite que o aplicativo valide o carimbo de segurança quando o usuário efetua login.
+                    // Este é um recurso de segurança que é usado quando você altera uma senha ou adiciona um login externo à sua conta.
+  
                     OnValidateIdentity = SecurityStampValidator.OnValidateIdentity<ApplicationUserManager, ApplicationUser>(
                         validateInterval: TimeSpan.FromMinutes(30),
                         regenerateIdentity: (manager, user) => user.GenerateUserIdentityAsync(manager))
                 }
             });
             app.UseExternalSignInCookie(DefaultAuthenticationTypes.ExternalCookie);
-
-            // Enables the application to temporarily store user information when they are verifying the second factor in the two-factor authentication process.
+            // Permite que o aplicativo armazene temporariamente as informações do usuário ao verificar o segundo fator no processo de autenticação de dois fatores.
             app.UseTwoFactorSignInCookie(DefaultAuthenticationTypes.TwoFactorCookie, TimeSpan.FromMinutes(5));
 
             // Enables the application to remember the second login verification factor such as phone or email.
