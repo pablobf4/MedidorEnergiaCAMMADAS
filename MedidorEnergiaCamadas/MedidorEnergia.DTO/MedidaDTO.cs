@@ -16,5 +16,16 @@ namespace MedidorEnergia.DTO
         public int  IDObjeto { get; set; }
 
 
+        public MedidaDTO() { }
+
+        // construtor para api
+        public MedidaDTO(float irms , float potencia)
+        {
+            this.Potencia = potencia;
+            this.Corrente = irms;
+            var Horario = DateTime.Now.ToString("dd/MM/yyyy HH:mm:ss");
+            
+
+        }
     }
 }

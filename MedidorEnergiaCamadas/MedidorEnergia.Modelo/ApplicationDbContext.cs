@@ -21,7 +21,7 @@ namespace MedidorEnergia.Modelo
         public DbSet<Objeto> Objetos { get; set; }
         public DbSet<Usuario> Usuario { get; set; }
 
-
+        // Com esta solução estou mapeando o usuário.cs da entidade para a mesma tabela como a entidade ApplicationUser.
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new UsuarioConfig());

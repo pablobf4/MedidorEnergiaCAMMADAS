@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MedidorEnergia.BLL;
+using MedidorEnergia.DTO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -7,33 +9,35 @@ using System.Web.Http;
 
 namespace WebApplication1.Controllers
 {
+    [RoutePrefix("api/medida")]
     public class DefaultController : ApiController
     {
-        // GET: api/Default
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
 
-        // GET: api/Default/5
-        public string Get(int id)
+        [HttpGet]
+        [Route("{irms}/{potencia}")]
+        public HttpResponseMessage ObterMedidasArduino(float irms, float potencia)
         {
-            return "value";
-        }
+            MedidaDTO medidaDTO = new MedidaDTO(irms, potencia);
+            try
+            {
+                if (ModelState.IsValid)
+                {
+                    MedidaBLL medidaBLL = new MedidaBLL();
+                    medidaBLL.Inserir(medidaDTO);
+                    HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.Created, medidaDTO);
+                    // response.Headers.Location = new Uri(Url.Link("DefaultApi", new { id = medida.IDMedida }));
+                    return response;
+                }
+                else
+                {
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
+                }
 
-        // POST: api/Default
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT: api/Default/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE: api/Default/5
-        public void Delete(int id)
-        {
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

@@ -9,6 +9,7 @@ namespace MedidorEnergia.Modelo.Modelo
 {
     public class Medida
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         [Key]
         public int Id { get; set; }
         public DateTime Horario { get; set; }

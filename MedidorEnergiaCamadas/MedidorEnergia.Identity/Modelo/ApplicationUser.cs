@@ -11,9 +11,6 @@ namespace MedidorEnergia.Identity.Modelo
 {
     public class ApplicationUser : IdentityUser
     {
-        public string Nome { get; set; }
-
-        public string Sobrenome { get; set; }
 
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {

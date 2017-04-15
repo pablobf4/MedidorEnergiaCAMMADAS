@@ -11,7 +11,7 @@ namespace MedidorEnergia.Modelo.Modelo
 
    public class Usuario
     {
-       
+
         public string Id { get; set; }
 
         public virtual string Email { get; set; }
