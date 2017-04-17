@@ -4,6 +4,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
+using Microsoft.Owin.Security.DataProtection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,51 +18,50 @@ namespace MedidorEnergia.Identity.Configuração
         public ApplicationUserManager(IUserStore<ApplicationUser> store)
             : base(store)
         {
-        }
-
-        public static ApplicationUserManager Create(IdentityFactoryOptions<ApplicationUserManager> options,
-            IOwinContext context)
-        {
-            var manager = new ApplicationUserManager(new UserStore<ApplicationUser>(context.Get<ApplicationDbContext>()));
-            // configura logica do usuario nome
-            manager.UserValidator = new UserValidator<ApplicationUser>(manager)
+            // Configurando validator para nome de usuario
+            UserValidator = new UserValidator<ApplicationUser>(this)
             {
                 AllowOnlyAlphanumericUserNames = false,
                 RequireUniqueEmail = true
             };
-            // Configuração lógica da senha
-            manager.PasswordValidator = new PasswordValidator
+
+            // Logica de validação e complexidade de senha
+            PasswordValidator = new PasswordValidator
             {
                 RequiredLength = 6,
-                RequireNonLetterOrDigit = true,
-                RequireDigit = true,
-                RequireLowercase = true,
-                RequireUppercase = true,
+                RequireNonLetterOrDigit = false,
+                RequireDigit = false,
+                RequireLowercase = false,
+                RequireUppercase = false,
             };
-            // Configure user lockout defaults
-            manager.UserLockoutEnabledByDefault = true;
-            manager.DefaultAccountLockoutTimeSpan = TimeSpan.FromMinutes(5);
-            manager.MaxFailedAccessAttemptsBeforeLockout = 5;
-            // Register two factor authentication providers. This application uses Phone and Emails as a step of receiving a code for verifying the user
-            // You can write your own provider and plug in here.
-            manager.RegisterTwoFactorProvider("PhoneCode", new PhoneNumberTokenProvider<ApplicationUser>
+
+            // Configuração de Lockout
+            UserLockoutEnabledByDefault = true;
+            DefaultAccountLockoutTimeSpan = TimeSpan.FromMinutes(5);
+            MaxFailedAccessAttemptsBeforeLockout = 5;
+
+            // Providers de Two Factor Autentication
+            RegisterTwoFactorProvider("Código via SMS", new PhoneNumberTokenProvider<ApplicationUser>
             {
-                MessageFormat = "Your security code is: {0}"
+                MessageFormat = "Seu código de segurança é: {0}"
             });
-            manager.RegisterTwoFactorProvider("EmailCode", new EmailTokenProvider<ApplicationUser>
+
+            RegisterTwoFactorProvider("Código via E-mail", new EmailTokenProvider<ApplicationUser>
             {
-                Subject = "SecurityCode",
-                BodyFormat = "Your security code is {0}"
+                Subject = "Código de Segurança",
+                BodyFormat = "Seu código de segurança é: {0}"
             });
-            manager.EmailService = new EmailService();
-            manager.SmsService = new SmsService();
-            var dataProtectionProvider = options.DataProtectionProvider;
-            if (dataProtectionProvider != null)
-            {
-                manager.UserTokenProvider =
-                    new DataProtectorTokenProvider<ApplicationUser>(dataProtectionProvider.Create("ASP.NET Identity"));
-            }
-            return manager;
+
+            // Definindo a classe de serviço de e-mail
+            EmailService = new EmailService();
+
+            // Definindo a classe de serviço de SMS
+            SmsService = new SmsService();
+
+            var provider = new DpapiDataProtectionProvider("MedidorEnergia");
+            var dataProtector = provider.Create("ASP.NET Identity");
+
+            UserTokenProvider = new DataProtectorTokenProvider<ApplicationUser>(dataProtector);
         }
     }
 }

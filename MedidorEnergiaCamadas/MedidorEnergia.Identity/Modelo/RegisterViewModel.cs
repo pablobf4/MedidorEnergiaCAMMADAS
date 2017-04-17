@@ -10,15 +10,12 @@ namespace MedidorEnergia.Identity.Modelo
     public class RegisterViewModel
     {
         [Required]
-        [Display(Name = "User name")]
+        [Display(Name = "Nome")]
 
         public string UserName { get; set; }
 
         [Required]
-
-        public string Nome { get; set; }
-
-        [Required]
+        [Display(Name = "Sobrenome")]
         public string Sobrenome { get; set; }
 
         [Required]
